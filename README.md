@@ -34,6 +34,6 @@ The focus was on the AUC score metric because is better to find a model which pe
 
 The best model would be Logistic Regression since it got a high precision, recall, f1-score for each class and the most important metric, in an unbalanced dataset, the highest AUC score.
 
-Our problem is about a binary classification problem. The goal is to correctly classify people who should not get approved for a loan. That the reason our main focus is the F1-score and AUC
+The problem is a binary classification problem. The goal is to correctly classify people who should not get approved for a loan. That's the reason the main focus is the F1-score and the AUC score
 score.
 
