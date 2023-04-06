@@ -28,7 +28,7 @@ The problem is a binary classification and different machine learning models wer
 # Conclusion
 By taking into account the facts that we chose Precision as the main metric,
 that these models do not perform well on unbalanced data and that our dataset is
-unbalanced the models SVC and KNN are not the right models for our problem.
+unbalanced the models SVC and KNN are not the right models for the problem.
 
 The focus was on the AUC score metric because is better to find a model which performs well in both minority and majority class and not just only in majority class.
 
