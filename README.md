@@ -1,4 +1,4 @@
-# Loan-Approval-Prediction
+# Loan approval prediction
 The main objective of this project is to automate the loan qualifying procedure. Predict loan approval is a decision-making process for determining whether an applicant is eligible for a loan or not, based on applicant information.
 
 # Introduction
